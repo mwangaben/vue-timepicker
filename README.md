@@ -21,13 +21,13 @@ Migrating from the Vue 1.x version? Please check [MIGRATION.md](https://github.c
 Through NPM **(Recommended)**
 
 ```bash
-npm install vue-timepicker --save
+npm install mwangaben-vue-timepicker --save
 ```
 
 Bower
 
 ```bash
-bower install vue-timepicker --save
+bower install mwangaben-vue-timepicker --save
 ```
 
 ## Get Started
