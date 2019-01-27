@@ -1,7 +1,7 @@
 {
-  "name": "vue2-timepicker",
+  "name": "mwangaben-vue-timepicker",
   "version": "0.1.4",
-  "description": "A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support",
+  "description": "Time picker (hour|minute|second) for Vue 2.x,",
   "scripts": {
     "dev": "node build/dev-server.js",
     "demo": "node build/demo.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phoenixwong/vue2-timepicker.git"
+    "url": ""
   },
   "keywords": [
     "vue",

@@ -6,7 +6,7 @@ A dropdown time picker (hour|minute|second) for **Vue 2.x**, with flexible time 
 
 ## Demo
 
-You can see the **Vue2 Timepicker** in action in the [Demo Page](https://phoenixwong.github.io/vue2-timepicker/)
+You can see the **Vue Timepicker** in action in the [Demo Page](https://phoenixwong.github.io/vue-timepicker/)
 
 ## Migration
 
@@ -21,13 +21,13 @@ Migrating from the Vue 1.x version? Please check [MIGRATION.md](https://github.c
 Through NPM **(Recommended)**
 
 ```bash
-npm install vue2-timepicker --save
+npm install vue-timepicker --save
 ```
 
 Bower
 
 ```bash
-bower install vue2-timepicker --save
+bower install vue-timepicker --save
 ```
 
 ## Get Started
@@ -38,10 +38,10 @@ bower install vue2-timepicker --save
 
 ```javascript
 // import
-import VueTimepicker from 'vue2-timepicker'
+import VueTimepicker from 'vue-timepicker'
 
 // Or, require
-var VueTimepicker = require('vue2-timepicker')
+var VueTimepicker = require('vue-timepicker')
 
 ```
 
